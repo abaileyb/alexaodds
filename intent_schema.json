@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "Odds",
+      "slots": [
+        {
+          "name": "Range",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
